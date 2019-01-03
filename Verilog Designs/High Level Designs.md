@@ -2,4 +2,4 @@ The goal of this project is to recreate an 8-bit Simple RISC Machine I designed 
 
 # Design 
 
-The schematic for the computer can be seen in '''Design.png''' which I borrowed from the lab manual we were given.
+The schematic for the computer can be seen in ```Design.png``` which I borrowed from the lab manual we were given.
